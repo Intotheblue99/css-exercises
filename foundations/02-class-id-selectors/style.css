@@ -1,0 +1,29 @@
+.p1 {
+    background-color: coral;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: sans-serif;
+}
+
+.p2 {
+    background-color: coral;
+    font-size: 36px;
+    font-weight: 900;
+    font-family: cursive;
+    color: gold;
+}
+
+#div1 {
+    background-color: blue;
+    font-weight: 900;
+    font-style: oblique;
+    color: aliceblue;
+    font-size: x-large;
+}
+
+#div2 {
+    background-color: greenyellow;
+    font-size: 43px;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
